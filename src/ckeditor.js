@@ -62,6 +62,8 @@ ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
 			'fontFamily',
+			'fontSize',
+			'fontColor',
 			'heading',
 			'|',
 			'bold',
